@@ -2,9 +2,9 @@
 #
 # Makefile
 #
-# - search recursively the source file
-#
-# Time-stamp: "2013-12-18 15:53:50 Gmaj7sus4"
+# Copyright (c) 2015 Kazutaka Yasuda
+# Released under the MIT license
+# http://opensource.org/licenses/mit-license.php
 #
 ################################################################
 #---------------------------------------------------------------
