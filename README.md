@@ -9,9 +9,9 @@ Othello source code from college
 
 ## How to use ##
 
-$ cd c-othello
-$ make
-$ ./c-othello
+	$ cd c-othello
+	$ make
+	$ ./c-othello
 
 ## License ##
 
